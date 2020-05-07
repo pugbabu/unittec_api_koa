@@ -1,0 +1,55 @@
+2020-05-06 17:08:30,076 DEBUG 12042  --- [tianlongbabudeMacBook-Pro.local] - [GET] -> [/] from: ::1 costs: 4ms data:{
+    "param": {},
+    "body": {}
+}
+2020-05-06 17:08:30,744 DEBUG 12042  --- [tianlongbabudeMacBook-Pro.local] - [GET] -> [/favicon.ico] from: ::1 costs: 1ms data:{
+    "param": {},
+    "body": {}
+}
+2020-05-06 17:12:19,236 DEBUG 12042  --- [tianlongbabudeMacBook-Pro.local] - [GET] -> [/app/v1] from: ::1 costs: 1ms data:{
+    "param": {},
+    "body": {}
+}
+2020-05-06 17:42:03,458 DEBUG 12042  --- [tianlongbabudeMacBook-Pro.local] - [POST] -> [/cms/user/login] from: ::1 costs: 232ms data:{
+    "param": {},
+    "body": {
+        "username": "root",
+        "password": "123456"
+    }
+}
+2020-05-06 17:42:03,519 DEBUG 12042  --- [tianlongbabudeMacBook-Pro.local] - [GET] -> [/cms/user/permissions] from: ::1 costs: 46ms data:{
+    "param": {},
+    "body": {}
+}
+2020-05-06 17:42:05,517 DEBUG 12042  --- [tianlongbabudeMacBook-Pro.local] - [GET] -> [/assets/null] from: ::1 costs: 0ms data:{
+    "param": {},
+    "body": {}
+}
+2020-05-06 17:42:09,242 DEBUG 12042  --- [tianlongbabudeMacBook-Pro.local] - [GET] -> [/cms/log/users?count=5&page=0] from: ::1 costs: 17ms data:{
+    "param": {
+        "count": "5",
+        "page": "0"
+    },
+    "body": {}
+}
+2020-05-06 17:42:09,511 DEBUG 12042  --- [tianlongbabudeMacBook-Pro.local] - [GET] -> [/cms/log?count=15&page=0] from: ::1 costs: 45ms data:{
+    "param": {
+        "count": "15",
+        "page": "0"
+    },
+    "body": {}
+}
+2020-05-06 17:42:16,781 DEBUG 12042  --- [tianlongbabudeMacBook-Pro.local] - [GET] -> [/cms/log/users?count=5&page=0] from: ::1 costs: 16ms data:{
+    "param": {
+        "count": "5",
+        "page": "0"
+    },
+    "body": {}
+}
+2020-05-06 17:42:16,822 DEBUG 12042  --- [tianlongbabudeMacBook-Pro.local] - [GET] -> [/cms/log?count=15&page=0] from: ::1 costs: 26ms data:{
+    "param": {
+        "count": "15",
+        "page": "0"
+    },
+    "body": {}
+}
